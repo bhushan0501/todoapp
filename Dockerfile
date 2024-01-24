@@ -1,5 +1,5 @@
 # Use an official Tomcat runtime as a parent image
-# FROM tomcat:9.0-jdk17-openjdk-slim
+FROM tomcat:9.0-jdk17-openjdk-slim
 
 # Set the working directory to /app
 WORKDIR /app
